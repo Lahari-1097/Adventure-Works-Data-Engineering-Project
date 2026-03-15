@@ -57,9 +57,6 @@ This project uses the **AdventureWorks dataset**, which simulates a retail compa
 Dataset Source  
 https://www.kaggle.com/datasets/ukvet/adventureworks
 
-Reference GitHub Dataset  
-https://github.com/anshlamba03/AdventureWorks
-
 The dataset contains multiple relational tables including:
 
 Customers  
